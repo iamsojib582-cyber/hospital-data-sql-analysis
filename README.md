@@ -30,7 +30,7 @@ This project demonstrates SQL proficiency through 10 analytical queries on healt
 
 ## 📂 Files
 
-- `[your_file_name].csv` - All SQL questions and queries in structured format
+- `[table-hospital_data.].csv` - All SQL questions and queries in structured format
 - `Hospital_data_project.sql` - Complete SQL code with solutions
 
 ---
@@ -44,7 +44,7 @@ This project demonstrates SQL proficiency through 10 analytical queries on healt
 ---
 
 ## 📫 Connect
-- **LinkedIn:** linkedin.com/in/mosaddek-hosen-sojib-a302a7285
+- **LinkedIn:** https://www.linkedin.com/in/mosaddek-hosen-sojib-a302a7285?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb37QVYOxS1mCOzDqym238Q%3D%3D
 - **Email:** martinsajeeb2001@outlook.com
 
 ---
